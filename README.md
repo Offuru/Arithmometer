@@ -1,4 +1,4 @@
 # Arithmometer
-Simulates the functionality of an arithmometer in Python, using Pygame
+Simulates the functionality of an arithmometer in Python, using Pygame.
 
-Developed alongside Stanica Dragos
+Developed alongside Stanica Dragos.
